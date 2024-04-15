@@ -1,5 +1,6 @@
 # Choropleth Map Data Visualization
 This is a choropleth map that visualizes educational attainment data for different counties in the United States. 
+To view this project live: [Click here](https://dristanta-silwal.github.io/Chloropeth-Chart)
 
 ## Objective
 
